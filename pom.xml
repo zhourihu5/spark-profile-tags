@@ -12,6 +12,7 @@
         <module>tags-etl</module>
         <module>tags-up</module>
         <module>tags-model</module>
+        <module>User-Portrait</module>
     </modules>
 
 
